@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>IMG_6971.jpeg</filename>
+	<path>/my-project-name/IMG_6971.jpeg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>lambo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>378</xmin>
+			<ymin>1531</ymin>
+			<xmax>1621</xmax>
+			<ymax>2166</ymax>
+		</bndbox>
+	</object>
+</annotation>

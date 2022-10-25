@@ -1,0 +1,25 @@
+<annotation>
+	<folder>wen-lambo</folder>
+	<filename>IMG_6914.jpeg</filename>
+	<path>/wen-lambo/IMG_6914.jpeg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>lambo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1844</xmin>
+			<ymin>866</ymin>
+			<xmax>2253</xmax>
+			<ymax>1517</ymax>
+		</bndbox>
+	</object>
+</annotation>
